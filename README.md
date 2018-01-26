@@ -1,7 +1,7 @@
 About r-ssoap
 =============
 
-Home: https
+Home: https://github.com/sckott/SSOAP
 
 Package license: GPL-2.0
 

@@ -35,7 +35,7 @@ test:
     - "\"%R%\" -e \"library('SSOAP')\""  # [win]
 
 about:
-  home: https
+  home: https://github.com/sckott/SSOAP
   license: GPL-2.0
   # license_file: LICENSE
   summary: Client-side SOAP access for S
